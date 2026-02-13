@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Rivals and Equals",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2026-02-13T03:25:27.322353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rivals and Equals",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_Rivals_and_Equals_Mori_Calliope.txt"
+    }
+  ]
+}
